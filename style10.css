@@ -1,0 +1,19 @@
+.list-item:first-child {
+    color: powderblue;
+}
+
+.list-item:last-child {
+    color: blue;
+}
+
+.list-item:nth-child(5) {
+    color: violet;
+}
+
+.list-item:hover {
+    color: crimson;
+}
+
+.list-item:nth-child(n5) {
+    color: coral;
+}
